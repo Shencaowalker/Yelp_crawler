@@ -1,0 +1,219 @@
+ARGENTINA	Buenos Aires	/buenos-aires
+AUSTRALIA	Adelaide	/adelaide
+AUSTRALIA	Brisbane	/brisbane
+AUSTRALIA	Melbourne	/melbourne
+AUSTRALIA	Perth	/perth
+AUSTRALIA	Sydney	/sydney
+AUSTRIA	Wien	/wien
+BELGIUM	Antwerpen	/antwerpen
+BELGIUM	Bruxelles	/bruxelles
+BRAZIL	Rio de Janeiro	/rio-de-janeiro
+BRAZIL	São Paulo	/s%C3%A3o-paulo
+CANADA	Calgary	/calgary
+CANADA	Edmonton	/edmonton
+CANADA	Halifax	/halifax
+CANADA	Montréal	/montr%C3%A9al
+CANADA	Ottawa	/ottawa
+CANADA	Toronto	/toronto
+CANADA	Vancouver	/vancouver
+CHILE	Santiago	/santiago
+CZECH REPUBLIC	Praha	/praha
+DENMARK	København	/k%C3%B8benhavn
+FINLAND	Helsinki	/helsinki
+FRANCE	Lyon	/lyon
+FRANCE	Marseille	/marseille
+FRANCE	Paris	/paris
+GERMANY	Berlin	/berlin
+GERMANY	Frankfurt am Main	/frankfurt-am-main
+GERMANY	Hamburg	/hamburg
+GERMANY	Köln	/k%C3%B6ln
+GERMANY	München	/m%C3%BCnchen
+HONG KONG	香港	/hk
+ITALY	Milano	/milano
+ITALY	Roma	/roma
+JAPAN	大阪市	/%E5%A4%A7%E9%98%AA%E5%B8%82
+JAPAN	東京	/%E6%9D%B1%E4%BA%AC
+MALAYSIA	Kuala Lumpur	/kl
+MEXICO	México, D.F.	/m%C3%A9xico-df
+NEW ZEALAND	Auckland	/auckland
+NORWAY	Oslo	/oslo
+PHILIPPINES	Manila	/manila
+POLAND	Kraków	/krak%C3%B3w
+POLAND	Warszawa	/warszawa
+PORTUGAL	Lisboa	/lisboa
+REPUBLIC OF IRELAND	Dublin	/dublin
+SINGAPORE	Singapore	/singapore
+SPAIN	Barcelona	/barcelona
+SPAIN	Madrid	/madrid
+SWEDEN	Stockholm	/stockholm
+SWITZERLAND	Zürich	/z%C3%BCrich
+TAIWAN	台北市	/%E5%8F%B0%E5%8C%97%E5%B8%82
+THE NETHERLANDS	Amsterdam	/amsterdam
+TURKEY	İstanbul	/istanbul
+UNITED KINGDOM	Belfast	/belfast
+UNITED KINGDOM	Brighton	/brighton
+UNITED KINGDOM	Bristol	/bristol
+UNITED KINGDOM	Cardiff	/cardiff
+UNITED KINGDOM	Edinburgh	/edinburgh
+UNITED KINGDOM	Glasgow	/glasgow
+UNITED KINGDOM	Leeds	/leeds
+UNITED KINGDOM	Liverpool	/liverpool
+UNITED KINGDOM	London	/london
+UNITED KINGDOM	Manchester	/manchester
+AZ	Phoenix	/phoenix
+AZ	Scottsdale	/scottsdale-az-us
+AZ	Tempe	/tempe-az-us
+AZ	Tucson	/tucson-az-us
+CA	Alameda	/alameda-ca-us
+CA	Albany	/albany-ca-us
+CA	Alhambra	/alhambra-ca-us
+CA	Anaheim	/anaheim-ca-us
+CA	Belmont	/belmont-ca-us
+CA	Berkeley	/berkeley
+CA	Beverly Hills	/beverly-hills-ca-us
+CA	Big Sur	/big-sur-ca-us
+CA	Burbank	/la-east
+CA	Concord	/concord-ca-us
+CA	Costa Mesa	/costa-mesa-ca-us
+CA	Culver City	/culver-city-ca-us
+CA	Cupertino	/cupertino-ca-us
+CA	Daly City	/daly-city-ca-us
+CA	Davis	/davis-ca-us
+CA	Dublin	/dublin-ca-us
+CA	Emeryville	/emeryville-ca-us
+CA	Foster City	/foster-city-ca-us
+CA	Fremont	/fremont-ca-us
+CA	Glendale	/glendale-ca-us
+CA	Hayward	/hayward-ca-us
+CA	Healdsburg	/healdsburg-ca-us
+CA	Huntington Beach	/huntington-beach-ca-us
+CA	Irvine	/irvine-ca-us
+CA	La Jolla	/la-jolla-ca-us
+CA	Livermore	/livermore-ca-us
+CA	Long Beach	/long-beach-ca-us
+CA	Los Altos	/los-altos-ca-us
+CA	Los Angeles	/la
+CA	Los Gatos	/los-gatos-ca-us
+CA	Marina del Rey	/marina-del-rey-ca-us
+CA	Menlo Park	/menlo-park-ca-us
+CA	Mill Valley	/mill-valley-ca-us
+CA	Millbrae	/millbrae-ca-us
+CA	Milpitas	/milpitas-ca-us
+CA	Monterey	/monterey-ca-us
+CA	Mountain View	/mountain-view-ca-us
+CA	Napa	/napa-ca-us
+CA	Newark	/newark-ca-us
+CA	Newport Beach	/newport-beach-ca-us
+CA	Oakland	/oakland
+CA	Orange County	/oc
+CA	Palo Alto	/palo-alto
+CA	Park La Brea	/park-la-brea-ca-us
+CA	Pasadena	/pasadena-ca-us
+CA	Pleasanton	/pleasanton-ca-us
+CA	Redondo Beach	/redondo-beach-ca-us
+CA	Redwood City	/redwood-city-ca-us
+CA	Sacramento	/sacramento
+CA	San Bruno	/san-bruno-ca-us
+CA	San Carlos	/san-carlos-ca-us
+CA	San Diego	/san-diego
+CA	San Francisco	/sf
+CA	San Jose	/san-jose
+CA	San Leandro	/san-leandro-ca-us
+CA	San Mateo	/san-mateo-ca-us
+CA	San Rafael	/san-rafael-ca-us
+CA	Santa Barbara	/santa-barbara
+CA	Santa Clara	/santa-clara-ca-us
+CA	Santa Cruz	/santa-cruz-ca-us
+CA	Santa Monica	/santa-monica-ca-us
+CA	Santa Rosa	/santa-rosa-ca-us
+CA	Sausalito	/sausalito-ca-us
+CA	Sonoma	/sonoma-ca-us
+CA	South Lake Tahoe	/south-lake-tahoe-ca-us
+CA	Stockton	/stockton-ca-us
+CA	Studio City	/studio-city-ca-us
+CA	Sunnyvale	/sunnyvale-ca-us
+CA	Torrance	/torrance-ca-us
+CA	Union City	/union-city-ca-us
+CA	Venice	/venice-ca-us
+CA	Walnut Creek	/walnut-creek-ca-us
+CA	West Hollywood	/west-hollywood-ca-us
+CA	West Los Angeles	/west-los-angeles-ca-us
+CA	Westwood	/westwood-ca-us
+CA	Yountville	/yountville-ca-us
+CO	Boulder	/boulder-co-us
+CO	Denver	/denver
+CT	Hartford	/hartford
+CT	New Haven	/new-haven-ct-us
+DC	Washington, DC	/dc
+FL	Fort Lauderdale	/fort-lauderdale-fl-us
+FL	Gainesville	/gainesville
+FL	Miami	/miami
+FL	Miami Beach	/miami-beach-fl-us
+FL	Orlando	/orlando-fl-us
+FL	Tampa	/tampa-bay
+GA	Atlanta	/atlanta
+GA	Savannah	/savannah
+HI	Honolulu	/honolulu
+HI	Lahaina	/lahaina-hi-us
+IA	Iowa City	/iowa-city
+ID	Boise	/boise
+IL	Chicago	/chicago
+IL	Evanston	/evanston-il-us
+IL	Naperville	/naperville-il-us
+IL	Schaumburg	/schaumburg-il-us
+IL	Skokie	/skokie-il-us
+IN	Bloomington	/bloomington-in-us
+IN	Indianapolis	/indianapolis-in-us
+KY	Louisville	/louisville
+LA	New Orleans	/new-orleans
+MA	Allston	/allston-ma-us
+MA	Boston	/boston
+MA	Brighton	/brighton-ma-us
+MA	Brookline	/brookline-ma-us
+MA	Cambridge	/cambridge-ma-us
+MA	Somerville	/somerville-ma-us
+MD	Baltimore	/baltimore
+MI	Ann Arbor	/ann-arbor-mi-us
+MI	Detroit	/detroit
+MN	Minneapolis	/minneapolis
+MN	Saint Paul	/saint-paul-mn-us
+MO	Kansas City	/kansas-city-mo-us
+MO	Saint Louis	/st-louis
+NC	Charlotte	/charlotte-nc-us
+NC	Durham	/durham-nc-us
+NC	Raleigh	/raleigh-nc-us
+NJ	Newark	/newark-nj-us
+NJ	Princeton	/princeton-nj-us
+NM	Albuquerque	/albuquerque
+NM	Santa Fe	/santa-fe-nm-us
+NV	Las Vegas	/las-vegas
+NV	Reno	/reno
+NY	Brooklyn	/brooklyn
+NY	Long Island City	/long-island-city-ny-us
+NY	New York	/nyc
+NY	Flushing	/queens
+OH	Cincinnati	/cincinnati-oh-us
+OH	Cleveland	/cleveland
+OH	Columbus	/columbus-oh-us
+OR	Portland	/portland
+OR	Salem	/salem-or-us
+PA	Philadelphia	/philadelphia
+PA	Pittsburgh	/pittsburgh
+RI	Providence	/providence
+SC	Charleston	/charleston
+TN	Memphis	/memphis
+TN	Nashville	/nashville
+TX	Austin	/austin
+TX	Dallas	/dallas
+TX	Houston	/houston
+TX	San Antonio	/san-antonio-tx-us
+UT	Salt Lake City	/salt-lake-city
+VA	Alexandria	/alexandria-va-us
+VA	Arlington	/arlington-va-us
+VA	Richmond	/richmond
+VT	Burlington	/burlington
+WA	Bellevue	/bellevue-wa-us
+WA	Redmond	/redmond-wa-us
+WA	Seattle	/seattle
+WI	Madison	/madison
+WI	Milwaukee	/milwaukee
